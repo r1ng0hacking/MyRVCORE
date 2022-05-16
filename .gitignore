@@ -1,0 +1,5 @@
+csrc/*
+simv
+simv.daidir/*
+data/imemfile.dat
+data/obj/*
